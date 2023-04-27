@@ -1,3 +1,6 @@
+#Das ist ein script zur textdateierstellung
+
+
 #text = input('enter a text')
 #filename = input('enter a filename')
 #textname = filename +".txt"
